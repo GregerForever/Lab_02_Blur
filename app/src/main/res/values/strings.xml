@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Blur Program</string>
+    <string name="thCount">Number of threads:</string>
+    <string name="lvBlur">Blur level: 3</string>
+    <string name="blurBut">Blur</string>
+    <string name="canc">Cancel</string>
+</resources>
